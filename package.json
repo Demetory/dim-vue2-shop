@@ -1,6 +1,23 @@
 {
-  "name": "shop.demetrey.test",
+  "name": "demetory-shop",
   "version": "0.1.0",
+  "description": "Light E-Commerce Project for Test and Study Purposes.",
+  "keywords": [
+    "css3",
+    "js",
+    "html5",
+    "ecommerce",
+    "vue2",
+    "vuejs2",
+    "vue.js",
+    "vuex",
+    "vue-router"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "Demetory",
+    "email": "hello@demetrey.ru"
+  },
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",

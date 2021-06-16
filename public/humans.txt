@@ -1,0 +1,23 @@
+﻿/* TEAM */
+    Chef: Demetory
+    Contact: hello@demetrey.ru
+    From: Novosibirsk, Russia
+
+    UI/UX Design: Demetory
+    Contact: hello@demetrey.ru
+    From: Novosibirsk, Russia
+
+    Frontend Developer: Demetory
+    Contact: hello@demetrey.ru
+    From: Novosibirsk, Russia
+
+/* THANKS */
+    Alter Ego: Agatha Jungfer
+    Contact: agatha@demetrey.ru
+    From: Koblenz, Germany
+
+/* SITE */
+    Last update: 2021/05/04
+    Language: English
+    Standarts: HTML5, CSS3 Flexbox, Native JS, Vue.js 2
+    IDE: WebStorm, FileZilla, Photoshop, Illustrator

@@ -1,24 +1,25 @@
-# shop.demetrey.test
+# Demetory Shop
 
-## Project setup
-```
+> Light E-Commerce Project for Test and Study Purposes based on Vue.js
+
+## Live Demo 
+> <a href="https://shop.demetrey.ru/">shop.demetrey.ru</a>
+
+## Build Setup
+You can use either, yarn or npm.
+
+``` bash
+# install dependencies
 yarn install
-```
 
-### Compiles and hot-reloads for development
-```
+# serve with hot reload at localhost:8080
 yarn serve
-```
 
-### Compiles and minifies for production
-```
+# build for production with minification
 yarn build
-```
 
-### Lints and fixes files
-```
+# lints and fixes
 yarn lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
