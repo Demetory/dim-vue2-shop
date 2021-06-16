@@ -24,3 +24,7 @@ pnpm-debug.log*
 *.sw?
 /! PSD Sources/
 /public/products/
+.browserslistrc
+.editorconfig
+.eslintrc.js
+.stylintrc
